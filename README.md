@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=MatheusAriza.com&style=for-the-badge&url=https://matheusariza.com/)](https://matheusariza.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusariza25/)
 
-<div style="displa: flex;">
+<div style="display: flex;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariza25&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariza25&show_icons=true&theme=dracula)](https://github.com/Ariza25?tab=repositories)
