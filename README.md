@@ -1,6 +1,6 @@
 ### Hi, there. Nice to see u here 🧔
 
-[![Blog](https://img.shields.io/website?label=MatheusAriza.com&style=for-the-badge&url=https://matheusariza.com/)](https://matheusariza.com)
+[![Blog](https://img.shields.io/website?label=MatheusAriza.com&style=for-the-badge&url=https://matheusariza25.com/)](https://matheusariza25.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusariza25/)
 
 <div style="display: flex; flex-direction: column">
