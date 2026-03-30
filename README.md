@@ -1,13 +1,8 @@
 ### Hi, there. Nice to see u here 🧔
 
-[![Blog](https://img.shields.io/website?label=MatheusAriza.com&style=for-the-badge&url=https://matheusariza25.com/)](https://matheusariza25.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusariza25/)
 
 <div style="display: flex; flex-direction: column">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariza25&show_icons=true&)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariza25&layout=pie)](https://github.com/ariza25/github-readme-stats&)
 
 </div><br/>
 
